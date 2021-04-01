@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409728099054",
+    "project_id": "authregister-6ab8c",
+    "storage_bucket": "authregister-6ab8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409728099054:android:6d38cd202f2671b8cbc9ff",
+        "android_client_info": {
+          "package_name": "com.example.dhoni.authregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409728099054-j7gtrvv2c93trkh2gemi8e4rj5boomq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqgPrL2MgoR4Seexnopb1k-h81ej2jFXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409728099054-j7gtrvv2c93trkh2gemi8e4rj5boomq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

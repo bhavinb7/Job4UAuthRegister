@@ -1,0 +1,9 @@
+<resources>
+    <array name="category">
+        <item></item>
+        <item>HR</item>
+        <item>JobSeeker</item>
+    </array>
+
+    <string name="app_name">AuthRegister</string>
+</resources>
